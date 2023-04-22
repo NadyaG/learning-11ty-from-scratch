@@ -31,7 +31,7 @@ Find further information at:
 
 ## License
 
-The library is intended for commercial use. You will need a license to test and integrate it into your app. See [Licensing](License.md).
+The library is intended for commercial use. You will need a license to test and integrate it into your app. See [Licensing](Licensing.md).
 
 ## Frequently asked questions
 
