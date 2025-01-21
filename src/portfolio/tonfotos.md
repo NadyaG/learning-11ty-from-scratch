@@ -1,5 +1,5 @@
 ---
-title: 'Tonfotos user's guide'
+title: 'Tonfotos user guide'
 summary: 'Complete documentation for a photo cataloging tool.'
 displayOrder: 40
 featured: false

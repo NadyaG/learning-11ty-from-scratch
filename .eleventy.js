@@ -18,6 +18,6 @@ module.exports = (config) => {
 	});
 	// Returns only the featured portfolio items, also sorted
 	config.addCollection('featuredWork', (collection) => {
-		return sortByDisplayOrder(collection.getFilteredByGlob('./src/portfolio/*.md').filter((x) => x.data.featured););
+		return sortByDisplayOrder(collection.getFilteredByGlob('./src/portfolio/*.md').filter((x) => x.data.featured));
 	});
 };
