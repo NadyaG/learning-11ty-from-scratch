@@ -1,0 +1,15 @@
+{
+  "name": "nadyag.github.io",
+  "version": "1.0.0",
+  "description": "Nadia Gaganova's technical writing experience and samples.",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx eleventy --serve"
+  },
+  "keywords": [],
+  "author": "Nadia Gaganova",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
