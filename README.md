@@ -1,1 +1,1 @@
-Nadia Gaganova's technical writing experience and samples.
+Trying out the course "Learn 11ty from scratch" here.

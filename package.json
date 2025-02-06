@@ -10,6 +10,7 @@
   "author": "Nadia Gaganova",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "javascript-stringify": "^2.1.0"
   }
 }
